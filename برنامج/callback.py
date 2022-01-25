@@ -40,7 +40,7 @@ async def cbstart(_, query: CallbackQuery):
                         "👥 Official Group", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "📣 SOURSE JANKEES " ، url = f "https://t.me/ { UPDATES_CHANNEL } "
                     ),
                 ],
                 [
