@@ -81,7 +81,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/Unknownvip/Luna-Music"
+                        "SHYCO" ، url = "https://github.com/Unknownvip/Luna-J_A_CK_BOT"
                     )
                 ],
             ]
@@ -103,7 +103,7 @@ async def alive(client: Client, message: Message):
             [
                 InlineKeyboardButton("✨ Group", url=f"https://t.me/{GROUP_SUPPORT}"),
                 InlineKeyboardButton(
-                    "📣 Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
+                    "📣 SOURSE JANKEES", url=f"https://t.me/{UPDATES_CHANNEL}"
                 ),
             ]
         ]
