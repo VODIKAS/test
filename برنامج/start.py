@@ -73,11 +73,11 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "👥 Official Group", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "👥 Official Group" ، url = f "https://t.me/ {SH_YCO} "
                     ),
                     InlineKeyboardButton(
-                        "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
-                    ),
+                        "📣 القناة الرسمية" ، url = f "https://t.me/ {JANK3S}" 
+                    ) ،
                 ],
                 [
                     InlineKeyboardButton(
@@ -103,7 +103,7 @@ async def alive(client: Client, message: Message):
             [
                 InlineKeyboardButton("✨ Group", url=f"https://t.me/{GROUP_SUPPORT}"),
                 InlineKeyboardButton(
-                    "📣 Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
+                    "📣 القناة" ، url = f "https://t.me/ { JANK3S } "
                 ),
             ]
         ]
